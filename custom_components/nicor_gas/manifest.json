@@ -12,5 +12,5 @@
   "requirements": [
     "southern-company-api @ git+https://github.com/robertscheib/southern_company_api.git@0b3a6e3fc907779223544ef1fc61b250b587cd57"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
