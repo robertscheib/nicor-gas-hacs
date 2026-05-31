@@ -453,7 +453,7 @@ class SouthernCompanySensor(
 
 
 class NicorGasSensor(SensorEntity, CoordinatorEntity[NicorGasCoordinator]):
-    """Representation of a Nicor Gas sensor entity."""
+    """Representation of a Nicor Gas sensor."""
 
     def __init__(
         self,
